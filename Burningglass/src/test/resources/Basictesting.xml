@@ -1,0 +1,7 @@
+<suite name="BurningGlass">
+ <test name="test_burningGlass_Demo">
+ <classes>
+      <class name="testSuite.Testing_utilities"/>         
+  </classes>  
+ </test>
+</suite>
